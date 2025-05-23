@@ -1,0 +1,318 @@
+[
+  {
+    "id": "1",
+    "title": "Team Meeting",
+    "date": "2025-02-10",
+    "time": "09:00",
+    "duration": 60,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "2",
+    "title": "Lunch with Sarah",
+    "date": "2025-02-10",
+    "time": "12:30",
+    "duration": 90,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "3",
+    "title": "Project Deadline",
+    "date": "2025-02-15",
+    "time": "17:00",
+    "duration": 30,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "4",
+    "title": "Dentist Appointment",
+    "date": "2025-02-17",
+    "time": "14:00",
+    "duration": 45,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "5",
+    "title": "Birthday Party",
+    "date": "2025-02-20",
+    "time": "19:00",
+    "duration": 180,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "6",
+    "title": "Morning Workout",
+    "date": "2025-02-22",
+    "time": "07:00",
+    "duration": 60,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "7",
+    "title": "Conference Call",
+    "date": "2025-02-25",
+    "time": "10:30",
+    "duration": 45,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "8",
+    "title": "Movie Night",
+    "date": "2025-02-28",
+    "time": "20:00",
+    "duration": 120,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "9",
+    "title": "Meditation",
+    "date": "2025-12-04",
+    "time": "18:30",
+    "duration": 20,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "10",
+    "title": "Code Review",
+    "date": "2025-04-16",
+    "time": "18:00",
+    "duration": 45,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "11",
+    "title": "Code Review",
+    "date": "2025-09-28",
+    "time": "09:30",
+    "duration": 45,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "12",
+    "title": "Team Sync",
+    "date": "2025-11-20",
+    "time": "14:00",
+    "duration": 60,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "13",
+    "title": "Annual Checkup",
+    "date": "2025-10-26",
+    "time": "12:30",
+    "duration": 45,
+    "category": "health",
+    "color": "#10B981"
+  },
+
+  {
+    "id": "53",
+    "title": "Project Update",
+    "date": "2025-09-26",
+    "time": "10:15",
+    "duration": 30,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "54",
+    "title": "Summer Strategy Meeting",
+    "date": "2025-05-05",
+    "time": "10:00",
+    "duration": 90,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "55",
+    "title": "Evening Walk",
+    "date": "2025-05-07",
+    "time": "18:30",
+    "duration": 30,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "56",
+    "title": "Family Dinner",
+    "date": "2025-05-10",
+    "time": "19:00",
+    "duration": 120,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "57",
+    "title": "Project Review",
+    "date": "2025-05-15",
+    "time": "11:00",
+    "duration": 60,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "58",
+    "title": "Yoga Session",
+    "date": "2025-05-20",
+    "time": "07:00",
+    "duration": 60,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "59",
+    "title": "Monsoon Preparation Meeting",
+    "date": "2025-06-01",
+    "time": "09:00",
+    "duration": 60,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "60",
+    "title": "Rainy Day Reading",
+    "date": "2025-06-05",
+    "time": "16:00",
+    "duration": 90,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "61",
+    "title": "Health Checkup",
+    "date": "2025-06-10",
+    "time": "10:00",
+    "duration": 45,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "62",
+    "title": "Team Outing",
+    "date": "2025-06-15",
+    "time": "12:00",
+    "duration": 180,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "63",
+    "title": "Monsoon Trek",
+    "date": "2025-06-20",
+    "time": "06:00",
+    "duration": 240,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "64",
+    "title": "Budget Planning",
+    "date": "2025-07-01",
+    "time": "09:30",
+    "duration": 60,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "65",
+    "title": "Indoor Workout",
+    "date": "2025-07-05",
+    "time": "07:30",
+    "duration": 45,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "66",
+    "title": "Movie Marathon",
+    "date": "2025-07-10",
+    "time": "15:00",
+    "duration": 180,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "67",
+    "title": "Client Meeting",
+    "date": "2025-07-15",
+    "time": "11:00",
+    "duration": 90,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "68",
+    "title": "Meditation Session",
+    "date": "2025-07-20",
+    "time": "06:30",
+    "duration": 30,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "69",
+    "title": "Friend's Birthday",
+    "date": "2025-08-01",
+    "time": "19:00",
+    "duration": 120,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "70",
+    "title": "Team Brainstorming",
+    "date": "2025-08-05",
+    "time": "10:00",
+    "duration": 60,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "71",
+    "title": "Rainy Day Run",
+    "date": "2025-08-10",
+    "time": "07:00",
+    "duration": 45,
+    "category": "health",
+    "color": "#10B981"
+  },
+  {
+    "id": "72",
+    "title": "Cooking Class",
+    "date": "2025-08-15",
+    "time": "17:00",
+    "duration": 90,
+    "category": "personal",
+    "color": "#EC4899"
+  },
+  {
+    "id": "73",
+    "title": "Project Deadline",
+    "date": "2025-08-20",
+    "time": "16:00",
+    "duration": 30,
+    "category": "work",
+    "color": "#4F46E5"
+  },
+  {
+    "id": "74",
+    "title": "Spa Appointment",
+    "date": "2025-08-25",
+    "time": "14:00",
+    "duration": 60,
+    "category": "health",
+    "color": "#10B981"
+  }
+]
