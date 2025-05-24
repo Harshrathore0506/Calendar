@@ -3,10 +3,7 @@ import React, { useState } from "react";
 import dayjs from "dayjs";
 import EventItem from "./EventItem";
 
-
 const DayCell = ({ day, events }) => {
-  const [selectedEvent, setSelectedEvent] = useState(null);
-
   const dayEvents = events.filter(
     (event) =>
       dayjs(event.date).format("YYYY-MM-DD") === day.date.format("YYYY-MM-DD")
@@ -16,9 +13,6 @@ const DayCell = ({ day, events }) => {
   const visibleEvents = dayEvents.slice(0, MAX_VISIBLE_EVENTS);
   const hiddenEventsCount = dayEvents.length - MAX_VISIBLE_EVENTS;
 
-  const handleEventClick = (event) => {
-    setSelectedEvent(event);
-  };
   return (
     <div
       className={`border border-gray-200 min-h-[100px] p-1 ${
@@ -39,7 +33,7 @@ const DayCell = ({ day, events }) => {
 
       <div className="mt-1">
         {visibleEvents.map((event) => (
-          <div key={event.id} onClick={() => handleEventClick(event)}>
+          <div key={event.id}>
             <EventItem event={event} />
           </div>
         ))}

@@ -1,4 +1,7 @@
 import React from "react";
+import Sleft from "../assets/left.png";
+import Sright from "../assets/right.png";
+
 const CalendarHeader = ({ currentDate, onPrevMonth, onNextMonth }) => {
   return (
     <header className="bg-white py-4 px-6 flex items-center justify-between border-b">
@@ -16,13 +19,13 @@ const CalendarHeader = ({ currentDate, onPrevMonth, onNextMonth }) => {
             onClick={onPrevMonth}
             className="p-2 rounded-full hover:bg-gray-100 transition-colors duration-200"
             aria-label="Previous month">
-            Previous
+            <img className="w-8" src={Sleft} alt="" />
           </button>
           <button
             onClick={onNextMonth}
             className="p-2 rounded-full hover:bg-gray-100 transition-colors duration-200"
             aria-label="Next month">
-            Next
+            <img className="w-8" src={Sright} alt="" />
           </button>
         </div>
       </div>
